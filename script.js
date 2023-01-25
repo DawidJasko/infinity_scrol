@@ -1,5 +1,5 @@
-const imageContainer = document.getElementById('image-conteiner')
-const loader = document.getElementById('loader')
+const imageContainer = document.getElementById("image-conteiner"):
+const loader = document.getElementById("loader")
 
 let photosArray = [];
 
